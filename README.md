@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [] create header
+
+Resources:
+https://www.sitepoint.com/github-profile-readme/
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 -->
