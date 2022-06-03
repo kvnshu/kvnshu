@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kevin Xu and I'm currently a student at the University of Michigan studying computer science. Alongside full-stack app developement, I'm passionate about startups, marketing, and photography!
+
 <!--
 **K3vX21/K3vX21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[] create header
 -->
