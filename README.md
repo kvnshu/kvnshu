@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 My name is Kevin Xu and I'm currently a student at the University of Michigan studying computer science. Alongside full-stack app developement, I'm passionate about startups, marketing, and photography!
 
