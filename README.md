@@ -1,24 +1,11 @@
 ### Welcome! 👋
 
-My name is Kevin Xu and I'm currently a student at the University of Michigan studying computer science and cognitive science. Alongside full-stack app developement, I'm passionate about startups, marketing, and photography!
+My name is Kevin Xu and I'm currently studying computer science and cognitive science at the University of Michigan. I'm passionate about tech for good, and am intersted in app developement, startups, and marketing.
 
-<!--
-**K3vX21/K3vX21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[] create header
-
-Resources:
-https://www.sitepoint.com/github-profile-readme/
-https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
--->
+- 🔭 I’m currently working on [Horizon](https://github.com/K3vX21/horizon), a webapp to predict the quality of sunsets
+- 🌱 I’m currently learning machine learning (via TensorFlow)
+- 👯 I’m open to collaborating on project ideas, just hmu!
+- 💬 Ask me about college life, effective altruism, or anything else!
+- 📫 How to reach me: k3vn.xu@gmail.com
+- 😄 Pronouns: he/him
+- 📸 Fun fact: I enjoy photography!
