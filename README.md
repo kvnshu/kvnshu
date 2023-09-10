@@ -14,6 +14,6 @@ Hi!👋 My name is Kevin Xu and I'm currently studying computer science and cogn
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27m3apw0hpq7my3ipvgje0gsx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 ---
-[![](https://visitcount.itsvg.in/api?id=kvnshu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kvnshu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
