@@ -1,5 +1,5 @@
 # 🎈 About Me:
-Hi!👋 My name is Kevin Xu and I'm currently studying computer science and cognitive science at the University of Michigan. I'm passionate about tech for good, and am interested in app development, startups, and marketing.<br><br>🔭 I’m currently working on LinkReads, a Goodreads webapp for internet essays<br>🌱 I’m currently learning machine learning (via TensorFlow) and React<br>🤝 I’m open to collaborating on project ideas, just hmu!<br>💬 Ask me about college life, effective altruism, or anything else!<br>📫 How to reach me: k3vn.xu@gmail.com<br>😄 Pronouns: he/him<br>📸 Fun fact: I enjoy photography!
+Hi!👋 My name is Kevin Xu and I'm currently studying computer science and cognitive science at the University of Michigan. I'm passionate about tech for good, and am interested in app development, startups, and marketing.<br><br>🔭 I’m currently working on LinkReads, a Goodreads webapp for internet essays<br>🌱 I’m currently learning React<br>🤝 I’m open to collaborating on project ideas, just hmu!<br>💬 Ask me about college life, effective altruism, or anything else!<br>📫 How to reach me: k3vn.xu@gmail.com<br>😄 Pronouns: he/him<br>📸 Fun fact: I enjoy photography!
 
 
 ## 🌐 Socials:
