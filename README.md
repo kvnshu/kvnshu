@@ -8,7 +8,7 @@ Hi!👋 My name is Kevin Xu and I'm currently studying computer science and cogn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kvnshu&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnshu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27m3apw0hpq7my3ipvgje0gsx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=27m3apw0hpq7my3ipvgje0gsx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=kvnshu&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
